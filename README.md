@@ -310,6 +310,6 @@ These extensions were not necessary for the objective of this project.
 
 ## Disclaimer
 
-This project is for educational purpose only.
+This project is for educational and learning purposes only.
 
-The DCF output and other valuation metrics are based on simplified assumptions and should not be interpreted as investment advice or a recommendation to buy or sell any security.
+
